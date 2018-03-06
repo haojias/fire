@@ -60,8 +60,8 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "MainActivity";
 
-    private static final String ID = "LTAICYGOqA9Ju29H";
-    private static final String SECRET = "RUkCbnAnCLGa0fFuRVkHAdZvQTTsxh";
+    private static final String ID = "";
+    private static final String SECRET = "";
 
     private BroadcastMain receiver;
 
