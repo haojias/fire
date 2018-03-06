@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="fire" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="dog.fire.pangx.fire.db.Task" />
+    </list>
+
+</litepal>

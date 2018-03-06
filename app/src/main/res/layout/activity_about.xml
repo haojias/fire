@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="30dp">
+
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="示例：（请使用24小时格式）" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="一分钟后做。。。" />
+
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="一小时后做什么。。。" />
+
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="一分钟后/一小时后/一小时10分钟后提醒。。。" />
+
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="一小时10分钟后做。。。" />
+
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="今天3点/3点10分/3点20/3点半做。。。" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="明天3点/3点10分/3点20/3点半做。。。" />
+    <TextView
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="后天3点/3点10分/3点20/3点半做。。。" />
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:textSize="10sp"
+        android:text="声明：
+        此程序所有数据只保存于你个人手机，不会备份到云端！网络权限只是用来调用阿里云的语音解析接口,请按照示例词条使用，并且由于安卓系统开放性各个手机品牌的系统存在差异，如若使用需赋予后台运行权限，并且不要杀掉后台进程以免错过提示。此程序完全免费，使用此程序表示您同意完全由您个人承担因该程序造成的所有风险损失。
+        另说明，该程序开发目的为由于发现@@@其工作中事物繁重，很多时候需要记录备注而开发。2018-01-23 0:08"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout> 
